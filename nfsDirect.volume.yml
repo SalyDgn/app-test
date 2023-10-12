@@ -9,6 +9,6 @@ spec:
   accessModes:
     - ReadWriteMany
   nfs:
-    path: /ssd/direct
-    server: 192.168.2.30
+    path: /nfsshare
+    server: 192.168.229.27
 
